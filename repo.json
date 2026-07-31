@@ -49,22 +49,8 @@
       "nsfw": false,
       "entry": "manga-online-ar.plugin.js"
     },
-    {
-      "id": "comick-unoriginal-en",
-      "name": "ComicK (Unoriginal)",
-      "version": "0.2.0",
-      "lang": "en",
-      "nsfw": true,
-      "entry": "comick-unoriginal-en.plugin.js"
-    },
-    {
-      "id": "comick-fanmade-en",
-      "name": "ComicK Fanmade",
-      "version": "0.2.0",
-      "lang": "en",
-      "nsfw": true,
-      "entry": "comick-fanmade-en.plugin.js"
-    },
+   
+   
     {
       "id": "likemanga-en",
       "name": "LikeManga",
@@ -73,22 +59,8 @@
       "nsfw": false,
       "entry": "likemanga-en.plugin.js"
     },
-    {
-      "id": "linkmanga-en",
-      "name": "LinkManga",
-      "version": "0.2.0",
-      "lang": "en",
-      "nsfw": true,
-      "entry": "linkmanga-en.plugin.js"
-    },
-    {
-      "id": "manganato-en",
-      "name": "Manganato",
-      "version": "0.2.0",
-      "lang": "en",
-      "nsfw": true,
-      "entry": "manganato-en.plugin.js"
-    },
+   
+   
     {
       "id": "mangapill-en",
       "name": "MangaPill",
