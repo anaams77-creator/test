@@ -51,31 +51,10 @@
     },
    
    
-    {
-      "id": "likemanga-en",
-      "name": "LikeManga",
-      "version": "0.2.0",
-      "lang": "en",
-      "nsfw": false,
-      "entry": "likemanga-en.plugin.js"
-    },
+    
    
    
-    {
-      "id": "mangapill-en",
-      "name": "MangaPill",
-      "version": "0.2.0",
-      "lang": "en",
-      "nsfw": false,
-      "entry": "mangapill-en.plugin.js"
-    },
-    {
-      "id": "webtoons-en",
-      "name": "Webtoons.com",
-      "version": "0.2.0",
-      "lang": "en",
-      "nsfw": false,
-      "entry": "webtoons-en.plugin.js"
-    }
+
+    
   ]
 }
